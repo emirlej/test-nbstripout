@@ -15,3 +15,6 @@ Look at this video: https://www.youtube.com/watch?v=BEMP4xacrVc and follow the s
 3. Add nbstripout to your repo
     - ```nbstripout --install```
     - A filter is added to your repo
+    
+# More similar info
+http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
